@@ -1,5 +1,6 @@
 # HowtoUseGithub
 
 
-init repository.
+1.init repository.
 
+2.add a branch.
